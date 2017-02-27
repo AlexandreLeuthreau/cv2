@@ -1,0 +1,285 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(23, 22, 21);
+    
+
+}
+
+#container{
+   background-color: rgb(23, 22, 21);
+   margin-left: 57px; 
+}
+
+h1{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+    color: rgb(159, 232, 85);
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 55px;
+    font-weight: 100;
+
+}
+
+#left-box{
+    margin: 40px; 
+    padding: 25px;
+    width: 200px;
+    height: 1420px;
+    float: left;
+    border: 1px solid;
+    border-radius: 10px;
+    color: #FFF;
+}
+
+
+#left-box ul li{
+    list-style: none;
+    color: #FFF;
+    font-family: 'Chathura', sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+}    
+
+
+#photo img{
+    margin: 50px 8px 108px 8px;
+    height: 185px;
+    width: 185px;
+    border-radius: 10px;
+}
+
+#paragraphe{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#phone{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#mail li{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}  
+
+
+#adresse li{
+    margin-top: 50px;
+}
+
+#sous-liste ul{
+    margin-top: 50px;
+    list-style: none;
+    color: #FFF;
+    font-family: 'Chathura', sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+
+#right-box{
+    margin-top: 40px;
+    margin-left: 20px;
+    width: 1000px;
+    height: 600px;
+    float: left;
+    border: 1px solid;
+    border-radius: 10px;
+    color: rgb(159, 232, 85);
+
+}
+
+
+.mesExperiences ul li{
+   padding: 25px;
+   
+}
+
+
+h2{
+  color: rgb(159, 232, 85);
+  font-family: 'Chathura', sans-serif;
+  text-align: center;
+  font-size: 50px; 
+  font-weight: 100;
+  padding: 0;
+  margin: 0;
+  border: 1px solid;
+  border-radius: 10px, 10px, 0px, 10px;
+
+}
+
+
+#dates1{
+   list-style: none;
+   font-family: 'Chathura', sans-serif;
+   font-size: 40px;
+   float: left; 
+   margin-left: 50px;
+   
+}
+
+#dates1 li{
+   list-style: none;
+   margin-left: 50px; 
+}
+
+
+#infos1{
+   list-style: none;
+   font-family: 'Chathura', sans-serif;
+   font-size: 30px;  
+}
+
+
+#infos1 li{
+   list-style: none; 
+}
+
+
+#dates2{
+   list-style: none;
+   font-family: 'Chathura', sans-serif;
+   font-size: 40px;
+   margin-left: 80px;
+}
+
+
+#dates2 ul{
+    padding: 0, 30px;
+}
+
+
+#dates2 li{
+   list-style: none;
+   font-family: 'Chathura', sans-serif;
+   margin-left: 50px;
+}
+
+
+#infos2{
+   list-style: none;
+   font-family: 'Chathura', sans-serif;
+   font-size: 30px;
+}
+
+
+#infos2 li{
+   list-style: none;
+}
+
+
+#study-box{
+    margin-left: 20px;
+    margin-top: 50px;
+    width: 1000px;
+    height: 820px;
+    float: left;
+    border: 1px solid;
+    border-radius: 10px;
+    color: rgb(159, 232, 85);
+    font-family: 'Chathura', sans-serif;
+
+
+
+}
+
+
+#study-box h2{
+    text-align: center;
+    font-family: 'Chathura', sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+    color: rgb(159, 232, 85);
+}
+
+
+.study ul li{
+ padding: 40px;
+ list-style: none;
+ font-size: 40px;
+ margin-left: 90px;
+}
+
+#date3{
+   list-style: none;
+   font-family: 'Chathura', sans-serif;
+   font-size: 40px;
+   
+}
+
+#dates3 li{
+   list-style: none;
+   margin-left: 90px;
+}
+
+
+#infos3{
+   list-style: none;
+   font-family: 'Chathura', sans-serif;
+   font-size: 30px;  
+}
+
+
+#infos3 li{
+   list-style: none;    
+}
+
+
+#dates4{
+   list-style: none;
+   font-family: 'Chathura', sans-serif;
+   font-size: 40px;
+   margin-left: 80px;
+   float: right;
+}
+
+
+
+
+#dates4 ul li{
+   list-style: none;
+   
+   margin-right: 50px;
+   
+}
+
+
+#infos4{
+   list-style: none;
+   font-family: 'Chathura', sans-serif;
+   font-size: 30px;
+}
+
+#infos4 li{
+   list-style: none;
+}
+
+#footer{
+    border: 1px solid;
+    border-radius: 10px;
+    color: rgb(159, 232, 85);
+    margin-top: 1625px;
+    height: 180px;
+    width: 1325px;
+    margin-left: 90px;
+}
+
+.infosComplementaires{
+   font-family: 'Chathura', sans-serif;
+   font-size: 30px;
+   margin: 0;
+   padding: 0;
+}
+
+.infosComplementaires li{
+    list-style: none;
+    margin-left: 225px;
+    display: inline-block;
+}
